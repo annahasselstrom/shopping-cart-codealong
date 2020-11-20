@@ -1,3 +1,2 @@
-# Shopping cart codealong
-
-Code from the shopping cart codealong from the redux sprint.
+# Shopping cart codealong 👗
+A code-along building a shopping site using Redux.
